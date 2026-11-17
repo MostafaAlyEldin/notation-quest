@@ -1,0 +1,8 @@
+{
+  "name": "Notation Quest",
+  "description": "Interactive educational lab and game for mastering Infix, Prefix (Polish), and Postfix (Reverse Polish) arithmetic notations with animated trees, stacks, and step-by-step evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
